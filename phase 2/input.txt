@@ -1,0 +1,85 @@
+int f(){
+  int i.
+  int b = 0.
+  int d,c.
+  int e,f,g = 1000.
+  int a[10].
+  int d[10][20].
+  return 10.
+}
+char func_0(){
+  char a.
+  char d = "salam".
+  char b, c = "0".
+  char a[10].
+  char d[10][20].
+
+  # this is just a comment!!
+}
+int func_1(int a){
+  return a.
+}
+void func_2(int a, int b){
+
+}
+int func_3(int a, int b, int c){
+  for(int i = 0,i<20,i++){
+    a = 10.
+  }
+  func_2(3,153).
+  return 2.
+}
+int check_calc(){
+  int a = 10.
+  int b = 100.
+}
+
+  # this is just a comment!!
+
+  #! comment 
+  comment 
+  !#
+
+int main(){
+  int i,a,c,s,f,e,g,h,e = 5.
+  char a = "salaaam!!".
+  while( i < 5){
+    i--.
+    if(i == 2){
+      break.
+    }
+    else{
+      continue.
+    }
+  }
+  int p = -2 + -3.
+  int o = (2*(4+(5/(--z))-23)+12)^(2+(p++)+2).
+
+  for( i = 3, i > 0, i--){
+    if( i == 1){
+      continue.
+      # comment
+    }
+    elseif(i == 2){
+      break.
+    }
+    elseif(i == 1){
+      a --.
+    }
+    else{
+      a++.
+    }
+  }
+
+  #! comment 
+  comment 
+  !#
+
+  for(int j = 0, j < 100, j++){
+    while((j == 1 & z == 2) || (q >= 2)){
+      if(1){
+        break.
+      }
+    }
+  }
+}
